@@ -1,0 +1,14 @@
+{
+  "name": "atividade4",
+  "version": "1.0.0",
+  "description": "Atividade sobre estoque de produtos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lizandra Regis Malta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
